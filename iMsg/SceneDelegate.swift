@@ -1,9 +1,9 @@
 //
 //  SceneDelegate.swift
-//  iMsg
+//  iMessenger
 //
-//  Created by Kyaw Zin Htun on 28/08/2020.
-//  Copyright © 2020 Info121. All rights reserved.
+//  Created by Kyaw Zin Htun on 05/08/2020.
+//  Copyright © 2020 Kyaw Zin Htun. All rights reserved.
 //
 
 import UIKit
